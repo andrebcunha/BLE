@@ -241,4 +241,9 @@ pip-log.txt
 *.uvproj
 **/Simulation/
 **/Generated_Source/
+<<<<<<< HEAD
+**/PSoC4_BLE_FreeRTOS/
+**/Performance Measurement
+**/PSoC-4-BLE/
 **/BLE_v2_10.cylib/
+
